@@ -86,3 +86,5 @@ let celsiusLink = document.querySelector("#celsius-link");
 celsiusLink.addEventListener("click", displayCelsiusTemperature);
 
 search("London");
+
+alert("Hi there!👋 Welcome, feel free to view the weather forecast 😃 🌎");
