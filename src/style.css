@@ -36,6 +36,9 @@ video {
   top: 0;
   left: 0;
 }
+footer {
+  position: relative;
+}
 
 .weather-app-wrapper {
   max-width: 600px;
@@ -85,7 +88,4 @@ video {
 }
 .weather-temperature .active:hover {
   text-decoration: none;
-}
-footer {
-  position: relative;
 }
